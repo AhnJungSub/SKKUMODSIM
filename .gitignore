@@ -31,3 +31,5 @@
 # Debug files
 *.dSYM/
 *.su
+/Calculator/obj/Debug/*.cache
+/Calculator/obj/Debug/*.pdb
